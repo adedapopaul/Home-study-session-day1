@@ -36,14 +36,7 @@ describe("Test to check when test is to be taken", function() {
 	    		
 	      		expect(User.password).not.toBeTruthy();
 	    	})
-	  		// it("should return 'Password cannot be empty' if user input no  name", function() {
-	    		
-	    //   		expect(User.email).not.toBeTruthy();
-	    // 	})
-	    // 	it("should return 'Name cannot be empty' if user input no  name", function() {
-	    		
-	    //   		expect(User.name).not.toBeTruthy();
-	    // 	})
+	  		
 	    })
 	})
 })
