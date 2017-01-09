@@ -1,0 +1,14 @@
+{
+  "name": "datatypes",
+  "version": "1.0.0",
+  "description": "Andela Home Study Session of the bootcamp : Day 1",
+  "main": "app/library.js",
+  "scripts": {
+    "test": "jasmine tests.js"
+  },
+  "author": "Dapo Aderemi",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
